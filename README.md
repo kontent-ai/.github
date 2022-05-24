@@ -3,6 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+
 [![Discord][discussion-shield]][discussion-url]
 
 
@@ -77,5 +78,5 @@ Distributed under the MIT License. See [`LICENSE.md`](./LICENSE.md) for more inf
 [issues-url]:https://github.com/Kentico/repo-template/issues
 [license-shield]: https://img.shields.io/github/license/Kentico/kontent-custom-element-samples.svg?style=for-the-badge
 [license-url]:https://github.com/Kentico/repo-template/blob/master/LICENSE.md
-[discussion-shield]: https://img.shields.io/discord/821885171984891914?color=%237289DA&label=Kontent%20Discord&logo=discord
+[discussion-shield]: https://img.shields.io/discord/821885171984891914?color=%237289DA&label=Kontent%20Discord&logo=discord&style=for-the-badge
 [discussion-url]: https://discord.com/invite/SKCxwPtevJ

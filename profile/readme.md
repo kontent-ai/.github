@@ -14,9 +14,9 @@ Welcome to the home of all things open source for Kontent.ai! Have a look around
 Besides the product itself, this GitHub organization carries a set of tools, samples, and SDKs to ease the developers' work with Kontent.
 
 * List of [Kontent open-source projects](https://github.com/topics/kontent-ai)
-* [Kontent.ai OS Guidelines](https://github.com/Kentico/Home/wiki#kontent-ai-guidelines)
-    * [Guidelines for creating the Kontent Delivery SDK](https://github.com/kontent-ai/Home/wiki/Guidelines-for-SDK-developers)
-    * [Guidelines for developing tools around Kontent APIs](https://github.com/kontent-ai/Home/wiki/Guidelines-for-Kontent-related-tools)
+* [Kontent.ai OS Guidelines](https://github.com/Kentico/.github/wiki#kontent-ai-guidelines)
+    * [Guidelines for creating the Kontent Delivery SDK](https://github.com/kontent-ai/.github/wiki/Guidelines-for-SDK-developers)
+    * [Guidelines for developing tools around Kontent APIs](https://github.com/kontent-ai/.github/wiki/Guidelines-for-Kontent-related-tools)
 
 ## Resources
 
@@ -32,7 +32,7 @@ Besides the product itself, this GitHub organization carries a set of tools, sam
 - Use [Stack Overflow](https://stackoverflow.com/) to ask questions about using Kontent's OS projects. Make sure you label them with the [`kontent-ai`](https://stackoverflow.com/questions/ask?tags=kontent-ai)
 - Use GitHub Issues for submitting bugs and feature requests related to OS projects.
 
-Read [CONTRIBUTING.md](https://github.com/kontent-ai/Home/blob/master/CONTRIBUTING.md#where-to-get-support) for more info on getting support.
+Read [CONTRIBUTING.md](https://github.com/kontent-ai/repo-template/blob/main/CONTRIBUTING.md) for more info on getting support.
 
 ## Code of Conduct
 

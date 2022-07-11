@@ -1,8 +1,8 @@
 # Kontent.ai
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn-assets-cloud.frontify.com/s3/frontify-cloud-files-us/eyJwYXRoIjoiZnJvbnRpZnlcL2FjY291bnRzXC9kNFwvOTIyMTdcL3Byb2plY3RzXC8yMzgyNTlcL2Fzc2V0c1wvNjRcLzU4NjMxODFcLzY0YzQ1MjVlOTQ4NTBiYzBiYTljOWNiMGMwMTNjN2FjLTE2MzIxNjA0OTQuc3ZnIn0:frontify:5-2IejOCKORJXN_ylMQPy9Hu1T2W7tvDXUFQ35NBp2U?width=2400">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://cdn-assets-cloud.frontify.com/s3/frontify-cloud-files-us/eyJwYXRoIjoiZnJvbnRpZnlcL2FjY291bnRzXC9kNFwvOTIyMTdcL3Byb2plY3RzXC8yMzgyNTlcL2Fzc2V0c1wvNjRcLzU4NjMxODFcLzY0YzQ1MjVlOTQ4NTBiYzBiYTljOWNiMGMwMTNjN2FjLTE2MzIxNjA0OTQuc3ZnIn0:frontify:5-2IejOCKORJXN_ylMQPy9Hu1T2W7tvDXUFQ35NBp2U?width=24000">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn-assets-cloud.frontify.com/s3/frontify-cloud-files-us/eyJwYXRoIjoiZnJvbnRpZnlcL2FjY291bnRzXC9kNFwvOTIyMTdcL3Byb2plY3RzXC8yMzgyNTlcL2Fzc2V0c1wvNjRcLzU4NjMxODFcLzY0YzQ1MjVlOTQ4NTBiYzBiYTljOWNiMGMwMTNjN2FjLTE2MzIxNjA0OTQuc3ZnIn0:frontify:5-2IejOCKORJXN_ylMQPy9Hu1T2W7tvDXUFQ35NBp2U?width=500">
+  <img alt="Kontent logo displayed either dark or light, based on the user's mode" src="https://cdn-assets-cloud.frontify.com/s3/frontify-cloud-files-us/eyJwYXRoIjoiZnJvbnRpZnlcL2FjY291bnRzXC9kNFwvOTIyMTdcL3Byb2plY3RzXC8yMzgyNTlcL2Fzc2V0c1wvNjRcLzU4NjMxODFcLzY0YzQ1MjVlOTQ4NTBiYzBiYTljOWNiMGMwMTNjN2FjLTE2MzIxNjA0OTQuc3ZnIn0:frontify:5-2IejOCKORJXN_ylMQPy9Hu1T2W7tvDXUFQ35NBp2U?width=500">
 </picture>
 
 Welcome to the home of all things open source for Kontent.ai! Have a look around to see if you find a project of your interest. Before you start using any of our software or contributing, read this guide and our [contributing guidelines](https://github.com/kontent-ai/repo-template/blob/main/CONTRIBUTING.md) to save you some time and trouble. In the [wiki section](https://github.com/kontent-ai/.github/wiki) of this repository, you can find the best practices and guidelines for OS projects and SDK developers. 

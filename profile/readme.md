@@ -5,7 +5,7 @@
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://cdn-assets-cloud.frontify.com/s3/frontify-cloud-files-us/eyJwYXRoIjoiZnJvbnRpZnlcL2FjY291bnRzXC9kNFwvOTIyMTdcL3Byb2plY3RzXC8yMzgyNTlcL2Fzc2V0c1wvNjRcLzU4NjMxODFcLzY0YzQ1MjVlOTQ4NTBiYzBiYTljOWNiMGMwMTNjN2FjLTE2MzIxNjA0OTQuc3ZnIn0:frontify:5-2IejOCKORJXN_ylMQPy9Hu1T2W7tvDXUFQ35NBp2U?width=24000">
 </picture>
 
-Welcome to the home of all things open source for Kontent.ai! Have a look around to see if you find a project of your interest. Before you start using any of our software or contributing, read this guide and our [contributing guidelines](https://github.com/Kentico/Home/blob/master/CONTRIBUTING.md) to save you some time and trouble. In the [wiki section](https://github.com/Kentico/Home/wiki) of this repository, you can find the best practices and guidelines for OS projects and SDK developers. 
+Welcome to the home of all things open source for Kontent.ai! Have a look around to see if you find a project of your interest. Before you start using any of our software or contributing, read this guide and our [contributing guidelines](https://github.com/kontent-ai/repo-template/blob/main/CONTRIBUTING.md) to save you some time and trouble. In the [wiki section](https://github.com/kontent-ai/.github/wiki) of this repository, you can find the best practices and guidelines for OS projects and SDK developers. 
 
 ## About the product
 
@@ -14,7 +14,7 @@ Welcome to the home of all things open source for Kontent.ai! Have a look around
 Besides the product itself, this GitHub organization carries a set of tools, samples, and SDKs to ease the developers' work with Kontent.
 
 * List of [Kontent open-source projects](https://github.com/topics/kontent-ai)
-* [Kontent.ai OS Guidelines](https://github.com/Kentico/.github/wiki#kontent-ai-guidelines)
+* [Kontent.ai OS Guidelines](https://github.com/kontent-ai/.github/wiki#kontent-ai-guidelines)
     * [Guidelines for creating the Kontent Delivery SDK](https://github.com/kontent-ai/.github/wiki/Guidelines-for-SDK-developers)
     * [Guidelines for developing tools around Kontent APIs](https://github.com/kontent-ai/.github/wiki/Guidelines-for-Kontent-related-tools)
 
@@ -29,11 +29,11 @@ Besides the product itself, this GitHub organization carries a set of tools, sam
 
 **Disclaimer:** Please note that the level of provided support is always determined by the LICENSE file of a given open-source project. Unless stated otherwise, Kontent.ai does not provide support nor testing for open source software. OS projects are developed by volunteers and maintained by Kontent.ai employees in their spare time. The software is distributed as it is, without any guarantee.
 
-- Use [Stack Overflow](https://stackoverflow.com/) to ask questions about using Kontent's OS projects. Make sure you label them with the [`kontent-ai`](https://stackoverflow.com/questions/ask?tags=kontent-ai)
+- Use [Stack Overflow](https://stackoverflow.com/) to ask questions about using Kontent's OS projects. Make sure you label them with the [`kontent-ai`](https://stackoverflow.com/questions/ask?tags=kontent-ai) tag
 - Use GitHub Issues for submitting bugs and feature requests related to OS projects.
 
 Read [CONTRIBUTING.md](https://github.com/kontent-ai/repo-template/blob/main/CONTRIBUTING.md) for more info on getting support.
 
 ## Code of Conduct
 
-The Kontent team is committed to fostering a welcoming community, therefore all our projects has adopted the [Contributor Covenant Code of Conduct](https://github.com/kontent-ai/Home/blob/master/CODE_OF_CONDUCT.md). If you have any additional questions or comments, you can contact us directly at devrel@kontent.ai.
+The Kontent team is committed to fostering a welcoming community, therefore all our projects has adopted the [Contributor Covenant Code of Conduct](https://github.com/kontent-ai/repo-template/blob/main/CODE_OF_CONDUCT.md). If you have any additional questions or comments, you can contact us directly at devrel@kontent.ai.

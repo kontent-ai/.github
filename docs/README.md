@@ -26,6 +26,7 @@ Welcome to the Kontent.ai wiki! You can find some useful guidelines here that mi
 
 ---
 
+
 # Checklist for publishing a new OS project
 
 Before you publish any repository under Kontent.ai organization on GitHub, please go through this checklist and make sure the repository is up to standards.
@@ -56,6 +57,8 @@ It's essential to decide who's going to be responsible for the repository. Every
 Read more on [the duties of a maintainer](Duties-of-a-Repository-Maintainer).
 
 Mark this user into the [CODEOWNERS](https://help.github.com/articles/about-code-owners/) file. See an [example](https://github.com/kontent-ai/KInspector/blob/master/.github/CODEOWNERS).
+
+
 
 # [Community profile](https://help.github.com/articles/about-community-profiles-for-public-repositories/)
 - should be "all green"
@@ -157,6 +160,8 @@ Include at least a basic set of (unit) tests.
 ## Review
 - Ask your colleagues to do a code review, basic testing, and proofreading before you publish any project. The [DevRel team](mailto:devrel@kontent.ai) may also help.
 
+
+
 # Continuous Integration
 - _❔ Optional, but highly recommended._
 
@@ -197,6 +202,8 @@ New members should be assigned to one of the above teams based on their affiliat
 > For all Kontent.ai employees - your GitHub profile should have your real name filled (nickname/handle is up to you) and ideally a real-life profile picture.
 
 ⚠️ It's strictly forbidden to add users directly to repos. Only teams (roles) can be assigned to repos. This will allow us to manage [RBAC](https://en.wikipedia.org/wiki/Role-based_access_control).
+
+
 
 # Naming conventions
 ## GitHub Repositories
@@ -408,6 +415,8 @@ We recommend that the project for your SDK uses the following naming pattern: `[
 
 For your SDK to be included within the list Kontent.ai SDKs, the SDK project has to comply with our checklist for [Publishing an OS project](https://github.com/kontent-ai/.github/wiki/Checklist-for-publishing-a-new-OS-project). You can also read [Guidelines for building tools around Kontent.ai APIs](https://github.com/kontent-ai/.github/wiki/Guidelines-for-Kontent-related-tools) that should help you meet the requirements for creating a successful tool.
 
+
+
 # Guidelines for Kontent.ai related tools
 Welcome to Kontent.ai, developers! These guidelines should help you meet all the requirements for creating successful tools around Kontent APIs aligned with our values. It should also give you a solid starting point for development using the framework of your choice.
 
@@ -483,6 +492,8 @@ The release process consists of two steps:
 
 ## 💡 Make your life easier
 Many of the tasks can be automated - e.g. [stale pull requests can be closed automatically](https://probot.github.io/apps/stale/), version management to be automated to a large extent, keeping things in sync with other systems like Jira can be automated. Be smart and automate!
+
+
 
 # New REST API feature
 
@@ -613,6 +624,8 @@ It’s not possible to cover all capabilities and combinations for each stack he
 ## Resources
 * GitHub Actions [documentation](https://docs.github.com/en/actions)
 * An article about GitHub Actions containing Kontent.ai specific examples: [With GitHub Actions, you don’t have to do boring tasks manually ever again](https://hackernoon.com/with-github-actions-you-dont-have-to-do-boring-tasks-manually-ever-again-301p356e)
+
+
 
 # Specific Stack Guidelines
 

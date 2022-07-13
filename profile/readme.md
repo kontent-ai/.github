@@ -1,5 +1,5 @@
 # Kontent.ai
-
+> :information_source: This organization is currently being migrated into from [Kentico](https://github.com/Kentico). Some repositories may still remain in the source organization or be temporarily unavailable, thank you for your understanding!
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn-assets-cloud.frontify.com/s3/frontify-cloud-files-us/eyJwYXRoIjoiZnJvbnRpZnlcL2FjY291bnRzXC9kNFwvOTIyMTdcL3Byb2plY3RzXC8yMzgyNTlcL2Fzc2V0c1wvNjRcLzU4NjMxODFcLzY0YzQ1MjVlOTQ4NTBiYzBiYTljOWNiMGMwMTNjN2FjLTE2MzIxNjA0OTQuc3ZnIn0:frontify:5-2IejOCKORJXN_ylMQPy9Hu1T2W7tvDXUFQ35NBp2U?width=500">
   <img alt="Kontent logo displayed either dark or light, based on the user's mode" src="https://cdn-assets-cloud.frontify.com/s3/frontify-cloud-files-us/eyJwYXRoIjoiZnJvbnRpZnlcL2FjY291bnRzXC9kNFwvOTIyMTdcL3Byb2plY3RzXC8yMzgyNTlcL2Fzc2V0c1wvNjRcLzU4NjMxODFcLzY0YzQ1MjVlOTQ4NTBiYzBiYTljOWNiMGMwMTNjN2FjLTE2MzIxNjA0OTQuc3ZnIn0:frontify:5-2IejOCKORJXN_ylMQPy9Hu1T2W7tvDXUFQ35NBp2U?width=500">

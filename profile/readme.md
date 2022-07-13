@@ -1,8 +1,8 @@
 # Kontent.ai
 > :information_source: This organization is currently being migrated into from [Kentico](https://github.com/Kentico). Some repositories may still remain in the source organization or be temporarily unavailable, thank you for your understanding!
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn-assets-cloud.frontify.com/s3/frontify-cloud-files-us/eyJwYXRoIjoiZnJvbnRpZnlcL2FjY291bnRzXC9kNFwvOTIyMTdcL3Byb2plY3RzXC8yMzgyNTlcL2Fzc2V0c1wvNjRcLzU4NjMxODFcLzY0YzQ1MjVlOTQ4NTBiYzBiYTljOWNiMGMwMTNjN2FjLTE2MzIxNjA0OTQuc3ZnIn0:frontify:5-2IejOCKORJXN_ylMQPy9Hu1T2W7tvDXUFQ35NBp2U?width=500">
-  <img alt="Kontent logo displayed either dark or light, based on the user's mode" src="https://cdn-assets-cloud.frontify.com/s3/frontify-cloud-files-us/eyJwYXRoIjoiZnJvbnRpZnlcL2FjY291bnRzXC9kNFwvOTIyMTdcL3Byb2plY3RzXC8yMzgyNTlcL2Fzc2V0c1wvNjRcLzU4NjMxODFcLzY0YzQ1MjVlOTQ4NTBiYzBiYTljOWNiMGMwMTNjN2FjLTE2MzIxNjA0OTQuc3ZnIn0:frontify:5-2IejOCKORJXN_ylMQPy9Hu1T2W7tvDXUFQ35NBp2U?width=500">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kontent-ai/.github/12f40cd037c44e5e29bb6dcc5e2d51562b901dc1/logos/kai-logo-hor-neg-rgb.svg" width=40%>
+  <img alt="Kontent logo displayed either dark or light, based on the user's mode" src="https://raw.githubusercontent.com/kontent-ai/.github/12f40cd037c44e5e29bb6dcc5e2d51562b901dc1/logos/kai-logo-hor-pos-rgb.svg" width=40%>
 </picture>
 
 Welcome to the home of all things open source for Kontent.ai! Have a look around to see if you find a project of your interest. Before you start using any of our software or contributing, read this guide and our [contributing guidelines](https://github.com/kontent-ai/repo-template/blob/main/CONTRIBUTING.md) to save you some time and trouble. In the [wiki section](https://github.com/kontent-ai/.github/wiki) of this repository, you can find the best practices and guidelines for OS projects and SDK developers. 
@@ -18,10 +18,7 @@ Besides the product itself, this GitHub organization carries a set of tools, sam
     * [Guidelines for creating the Kontent Delivery SDK](https://github.com/kontent-ai/.github/wiki/Guidelines-for-SDK-developers)
     * [Guidelines for developing tools around Kontent APIs](https://github.com/kontent-ai/.github/wiki/Guidelines-for-Kontent-related-tools)
 
-## Resources
-
-ℹ️ Are you feeling lost in the stack of developer resources? 
-[**The non-exhaustive list of developer resources**](https://github.com/kontent-ai/Home/raw/master/RESOURCES.md) could help you find appropriate places related to Kontent and Xperience.
+## Join us on Discord!
 
 [![Kontent Discord](https://img.shields.io/discord/821885171984891914?color=%237289DA&label=Kontent%20Discord&logo=discord&style=for-the-badge)](https://bit.ly/kontent-discord)
 

@@ -18,10 +18,7 @@ Besides the product itself, this GitHub organization carries a set of tools, sam
     * [Guidelines for creating the Kontent Delivery SDK](https://github.com/kontent-ai/.github/wiki/Guidelines-for-SDK-developers)
     * [Guidelines for developing tools around Kontent APIs](https://github.com/kontent-ai/.github/wiki/Guidelines-for-Kontent-related-tools)
 
-## Resources
-
-ℹ️ Are you feeling lost in the stack of developer resources? 
-[**The non-exhaustive list of developer resources**](https://github.com/kontent-ai/Home/raw/master/RESOURCES.md) could help you find appropriate places related to Kontent and Xperience.
+## Discord
 
 [![Kontent Discord](https://img.shields.io/discord/821885171984891914?color=%237289DA&label=Kontent%20Discord&logo=discord&style=for-the-badge)](https://bit.ly/kontent-discord)
 

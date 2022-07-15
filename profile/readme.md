@@ -11,18 +11,18 @@ Welcome to the home of all things open source for Kontent.ai! Have a look around
 
 ## About the product
 
-[Kontent.ai](https://kontent.ai/) is a cloud-based content management platform. Its technology-agnostic API enables omnichannel content delivery and management - from any platform to any device. Kontent is a SaaS solution built on a modern technology stack - it's highly available, it scales automatically, and it's secure.
+[Kontent.ai](https://kontent.ai/) is a cloud-based content management platform. Its technology-agnostic API enables omnichannel content delivery and management - from any platform to any device. Kontent.ai is a SaaS solution built on a modern technology stack - it's highly available, it scales automatically, and it's secure.
 
 Besides the product itself, this GitHub organization carries a set of tools, samples, and SDKs to ease the developers' work with Kontent.
 
-* List of [Kontent open-source projects](https://github.com/topics/kontent-ai)
+* List of [Kontent.ai open-source projects](https://github.com/topics/kontent-ai)
 * [Kontent.ai OS Guidelines](https://github.com/kontent-ai/.github/wiki#kontent-ai-guidelines)
-    * [Guidelines for creating the Kontent Delivery SDK](https://github.com/kontent-ai/.github/wiki/Guidelines-for-SDK-developers)
-    * [Guidelines for developing tools around Kontent APIs](https://github.com/kontent-ai/.github/wiki/Guidelines-for-Kontent-related-tools)
+    * [Guidelines for creating the Kontent.ai Delivery SDK](https://github.com/kontent-ai/.github/wiki/Guidelines-for-SDK-developers)
+    * [Guidelines for developing tools around Kontent.ai APIs](https://github.com/kontent-ai/.github/wiki/Guidelines-for-Kontent-related-tools)
 
 ## Join us on Discord!
 
-[![Kontent Discord](https://img.shields.io/discord/821885171984891914?color=%237289DA&label=Kontent%20Discord&logo=discord&style=for-the-badge)](https://bit.ly/kontent-discord)
+[![Kontent.ai Discord](https://img.shields.io/discord/821885171984891914?color=%237289DA&label=Kontent%20Discord&logo=discord&style=for-the-badge)](https://bit.ly/kontent-discord)
 
 ## Getting support for open-source projects
 
@@ -35,4 +35,4 @@ Read [CONTRIBUTING.md](https://github.com/kontent-ai/repo-template/blob/main/CON
 
 ## Code of Conduct
 
-The Kontent team is committed to fostering a welcoming community, therefore all our projects has adopted the [Contributor Covenant Code of Conduct](https://github.com/kontent-ai/repo-template/blob/main/CODE_OF_CONDUCT.md). If you have any additional questions or comments, you can contact us directly at devrel@kontent.ai.
+The Kontent.ai team is committed to fostering a welcoming community, therefore all our projects has adopted the [Contributor Covenant Code of Conduct](https://github.com/kontent-ai/repo-template/blob/main/CODE_OF_CONDUCT.md). If you have any additional questions or comments, you can contact us directly at devrel@kontent.ai.

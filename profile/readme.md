@@ -5,7 +5,7 @@
   <img alt="Kontent logo displayed either dark or light, based on the user's mode" src="https://raw.githubusercontent.com/kontent-ai/.github/12f40cd037c44e5e29bb6dcc5e2d51562b901dc1/logos/kai-logo-hor-pos-rgb.svg" width=40%>
 </picture>
 
-Welcome to the home of all things open source for Kontent.ai! Have a look around to see if you find a project of your interest. Before you start using any of our software or contributing, read this guide and our [contributing guidelines](https://github.com/kontent-ai/repo-template/blob/main/CONTRIBUTING.md) to save you some time and trouble. In the [kontent-ai.github.uo repository](https://github.com/kontent-ai/kontent-ai.github.io), you can find the best practices and guidelines for OS projects and SDK developers.
+Welcome to the home of all things open source for Kontent.ai! Have a look around to see if you find a project of your interest. Before you start using any of our software or contributing, read this guide and our [contributing guidelines](https://github.com/kontent-ai/repo-template/blob/main/CONTRIBUTING.md) to save you some time and trouble. In the [kontent-ai.github.io repository](https://github.com/kontent-ai/kontent-ai.github.io), you can find the best practices and guidelines for OS projects and SDK developers.
 
 > :information_source: This organization is currently being migrated into from [Kentico](https://github.com/Kentico). Some repositories may still remain in the source organization or be temporarily unavailable, thank you for your understanding!
 

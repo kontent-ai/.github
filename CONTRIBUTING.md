@@ -21,8 +21,7 @@ Our team members and the community monitor these channels on a regular basis.
 ### I want to report a security bug
 <img align="right" width="100" height="100" src="https://i.imgur.com/z82nnJB.png">
 
-Security issues and bugs should be reported privately, via email, to Kontent.ai Developer Relations Team devrel@kontent.ai. You should receive a response within 24 hours. If for some reason you do not, send us a follow up email to ensure we received your original message.
-
+Security issues and bugs should be reported privately, via email, to Kontent.ai Security Team [security@kontent.ai](mailto:security@kontent.ai). For more details, check the [Security policy](SECURITY.md). 
 
 ### I have an idea for a new feature (or feedback on existing functionality)
 <img align="right" width="100" height="100" src="https://i.imgur.com/rUFkyPy.png">

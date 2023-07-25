@@ -6,7 +6,7 @@ If you believe you have found a security vulnerability in any Kontent.ai-owned r
 ## Reporting Security Issues
 **Please do not report security vulnerabilities through public GitHub issues.**
 
-Security issues and bugs should be reported privately, via email to [security@kontent.ai](mailto:security@kontent.ai) . For secure communication, use our [PGP key](https://app.kontent.ai/pgp-key.txt). If you find multiple issues, please report them separately. We will keep you updated on the progress towards remediation of issues we accept from you, and we ask you not to disclose the issue publicly without Kontent.ai’s prior written permission. Additional information can be found in our [Vulnerability Disclosure Policy](https://kontent.ai/vulnerability-disclosure-policy/). 
+Security issues and bugs should be reported privately, via email to [security@kontent.ai](mailto:security@kontent.ai). For secure communication, use our [PGP key](https://app.kontent.ai/pgp-key.txt). If you find multiple issues, please report them separately. We will keep you updated on the progress towards remediation of issues we accept from you, and we ask you not to disclose the issue publicly without Kontent.ai’s prior written permission. Additional information can be found in our [Vulnerability Disclosure Policy](https://kontent.ai/vulnerability-disclosure-policy/). 
 
 If possible, please include the requested information listed below (as much as you can provide) to help us better understand the nature and scope of the issue:
 

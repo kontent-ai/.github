@@ -1,0 +1,31 @@
+# Delete this workflow once you use this repository as a template
+
+name: "Release"
+on:
+  pull_request:
+
+jobs:
+  Build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: "Checkout repository"
+        uses: actions/checkout@v3
+      - name: "Install multi-gitter"
+        run: curl -s https://raw.githubusercontent.com/lindell/multi-gitter/master/install.sh | sh
+      - name: "Add running privilages"
+        run: chmod +x ./scripts/propagate_changes.sh
+      - name: "Run multi gitter to distribute changes"
+        run: |
+          multi-gitter run ./scripts/propagate_changes.sh \
+          --dry-run \
+          -O kontent-ai \
+          -m "Propagate changes from repo-template" \
+          -B template-changes \
+          --fork \
+          --author-name kontent-ai-bot \
+          --author-email devrel@kontent.ai \
+          --skip-repo "kontent-ai/repo-template" \
+          --skip-repo "kontent-ai/.github" \
+          --skip-repo "kontent-ai/draft-js"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

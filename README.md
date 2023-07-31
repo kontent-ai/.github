@@ -1,3 +1,5 @@
+# Project name
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -6,16 +8,16 @@
 
 [![Discord][discussion-shield]][discussion-url]
 
-
+> ⚠ Before you start working on your project after you use the template, remove `scripts` folder and `.github/workflows/deploy.yml` file.
+> If you want to make changes to the template, create a GitHub release. This triggers CD pipelines which propagates changes to all public repositories.
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
 Please put here some general information about your Intergration / App / Solution.
 
-
-
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
@@ -24,7 +26,8 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+
+- npm
   ```sh
   npm install npm@latest -g
   ```
@@ -33,7 +36,7 @@ This is an example of how to list things you need to use the software and how to
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at ... 
+1. Get a free API Key at ...
 2. Clone the repo
    ```sh
    git clone ...
@@ -41,33 +44,29 @@ _Below is an example of how you can instruct your audience on installing and set
 3. Install
 4. Enter your API ...
 
-
-
 <!-- USAGE EXAMPLES -->
+
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](put URL to documentation here)_
 
-
-
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
-For Contributing please see  <a href="./CONTRIBUTING.md">`CONTRIBUTING.md`</a> for more information.
-
-
+For Contributing please see <a href="./CONTRIBUTING.md">`CONTRIBUTING.md`</a> for more information.
 
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See [`LICENSE.md`](./LICENSE.md) for more information.
 
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://github.com/Kentico/Home/wiki/Checklist-for-publishing-a-new-OS-project#badges-->
+
 [contributors-shield]: https://img.shields.io/github/contributors/Kentico/kontent-custom-element-samples.svg?style=for-the-badge
 [contributors-url]: https://github.com/Kentico/repo-template/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Kentico/kontent-custom-element-samples.svg?style=for-the-badge
@@ -75,8 +74,8 @@ Distributed under the MIT License. See [`LICENSE.md`](./LICENSE.md) for more inf
 [stars-shield]: https://img.shields.io/github/stars/Kentico/kontent-custom-element-samples.svg?style=for-the-badge
 [stars-url]: https://github.com/Kentico/repo-template/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Kentico/kontent-custom-element-samples.svg?style=for-the-badge
-[issues-url]:https://github.com/Kentico/repo-template/issues
+[issues-url]: https://github.com/Kentico/repo-template/issues
 [license-shield]: https://img.shields.io/github/license/Kentico/kontent-custom-element-samples.svg?style=for-the-badge
-[license-url]:https://github.com/Kentico/repo-template/blob/master/LICENSE.md
+[license-url]: https://github.com/Kentico/repo-template/blob/master/LICENSE.md
 [discussion-shield]: https://img.shields.io/discord/821885171984891914?color=%237289DA&label=Kontent%20Discord&logo=discord&style=for-the-badge
 [discussion-url]: https://discord.com/invite/SKCxwPtevJ

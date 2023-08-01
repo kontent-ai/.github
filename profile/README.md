@@ -1,8 +1,8 @@
 # Kontent.ai
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kontent-ai/.github/12f40cd037c44e5e29bb6dcc5e2d51562b901dc1/logos/kai-logo-hor-neg-rgb.svg" width=40%>
-  <img alt="Kontent logo displayed either dark or light, based on the user's mode" src="https://raw.githubusercontent.com/kontent-ai/.github/12f40cd037c44e5e29bb6dcc5e2d51562b901dc1/logos/kai-logo-hor-pos-rgb.svg" width=40%>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kontent-ai/.github/main/logos/kai-logo-hor-neg-rgb.svg" width=40%>
+  <img alt="Kontent logo displayed either dark or light, based on the user's mode" src="https://raw.githubusercontent.com/kontent-ai/.github/main/logos/kai-logo-hor-pos-rgb.svg" width=40%>
 </picture>
 
 Welcome to the home of all things open source for Kontent.ai! Have a look around to see if you find a project of your interest. Before you start using any of our software or contributing, read this guide and our [contributing guidelines](https://github.com/kontent-ai/repo-template/blob/main/CONTRIBUTING.md) to save you some time and trouble. In our [GitHub docs](https://kontent-ai.github.io/), you can find the best practices and guidelines for OS projects and SDK developers.

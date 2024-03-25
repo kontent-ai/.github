@@ -15,7 +15,8 @@ Welcome to the home of all things open source for Kontent.ai! Have a look around
 
 This GitHub organization carries a set of tools, samples, and SDKs to ease the developers' work with Kontent.ai. If you plan to develop your own Kontent.ai-related tool, make sure to check out our developer resources at <https://kontent-ai.github.io>, where you'll be able to find guidelines and other materials to help you jumpstart yor project!
 
-> If you want to, you can mark your repository by [specific Kontent.ai's GitHub topics](https://kontent-ai.github.io/Naming-conventions#tagging). This ensures, you get to the topic listing and your repository vill be much more accessible.
+> [!NOTE]
+> You can also mark your repository by [specific Kontent.ai's GitHub topics](https://kontent-ai.github.io/Naming-conventions#tagging). This improves the repo's visibility by displaying it in the topic listing.
 
 ## Join us on Discord
 
